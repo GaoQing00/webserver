@@ -1,0 +1,13 @@
+一个客户端建立了连接...
+POST /index.html/ HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Language: zh-CN
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Host: localhost:8888
+Content-Length: 18
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+uname=123&pwd=1213
